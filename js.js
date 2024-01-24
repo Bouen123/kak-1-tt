@@ -86,12 +86,12 @@ btn.addEventListener('mouseenter', () => {
     window.location.href = 'https://github.com/Bouen123/';
   });
   btn1.addEventListener('click', () => {
-    window.location.href = 'https://www.facebook.com/';
+    window.location.href = 'https://www.facebook.com/van.thun.9655/';
   });
   btn2.addEventListener('click', () => {
-    window.location.href = 'https://twitter.com/home';
+    window.location.href = 'https://twitter.com/VanThun1375997';
   });
   btn3.addEventListener('click', () => {
-    window.location.href = 'https://www.instagram.com/';
+    window.location.href = 'https://www.instagram.com/srin_vannthun/';
   });
 
